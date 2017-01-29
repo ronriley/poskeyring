@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+<!--    <item android:id="@+id/list"-->
+<!--          android:title="@string/menu_list" />-->
+<!--          -->
+<!--    <item android:id="@+id/new_item"-->
+<!--          android:title="@string/menu_new" />-->
+<!--          -->
+          
+    <item android:id="@+id/help"
+          android:title="@string/menu_help" />  
+          
+     <item android:id="@+id/category_editor"
+          android:title="@string/menu_edit_categories" />
+                   
+    <item android:id="@+id/password_timeout"
+          android:title="@string/menu_set_password_timeout" />
+          
+    <item android:id="@+id/password"
+          android:title="@string/menu_change_password" />
+
+    <item android:id="@+id/import_pdb"
+          android:title="@string/menu_import_pdb" />
+          
+    <item android:id="@+id/export_pdb"
+          android:title="@string/menu_export_pdb" /> 
+                   
+    <item android:id="@+id/new_pdb"
+          android:title="@string/menu_new_pdb" />
+          
+    <item android:id="@+id/toggle_orientation"
+          android:title="@string/toggle_orientation" />
+
+
+</menu>

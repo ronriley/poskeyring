@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Keyring for Android
+Copyright (C) 2011 Ron Riley
+(android.keyring@gmail.com)
+
+Keyring for Android is based on: 
+
+KeyringEditor
+Copyright 2004 Markus Griessnig
+Vienna University of Technology
+Institute of Computer Technology
+
+KeyringEditor is based on:
+Java Keyring v0.6
+Copyright 2004 Frank Taylor <keyring@lieder.me.uk>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+    <LinearLayout style="@style/TitleBar" android:id="@+id/titlebar"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal">
+    
+        <ImageButton style="@style/TitleBarAction"
+        	android:id="@+id/go_home"
+            android:contentDescription="@string/description_logo"
+            android:src="@drawable/ic_title_home" />
+
+        <ImageView style="@style/TitleBarSeparator" />
+        
+       <ImageView style="@style/TitleBarLogo"
+            android:contentDescription="@string/description_logo"
+            android:layout_weight="1"
+            android:src="@drawable/title_logo_default"
+			android:text="@string/app_name"
+/>
+
+        <ImageView style="@style/TitleBarSeparator" />
+        
+         <ImageButton style="@style/TitleBarAction"
+            android:contentDescription="@string/description_logo"
+            android:id="@+id/go_add"
+            android:src="@drawable/add_inv" />
+
+        <ImageView style="@style/TitleBarSeparator" />
+        
+        <ImageButton style="@style/TitleBarAction"
+            android:contentDescription="@string/description_search"
+            android:id="@+id/go_search"
+            android:src="@drawable/ic_title_search" />
+            
+</LinearLayout>
