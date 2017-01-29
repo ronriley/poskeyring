@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/ic_title_home_light.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/ic_title_home_light.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/ic_title_search.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/ic_title_search.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/ic_title_home.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/ic_title_home.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/title_logo.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/title_logo.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/title_button.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/title_button.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable/ic_title_search_light.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable/ic_title_search_light.xml"
+    }
+]

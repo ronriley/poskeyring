@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/search.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/title_logo_default.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/title_logo_default.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/unlocked.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/unlocked.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/add_inv.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/add_inv.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/home.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/home.png"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/drawable-mdpi/locked.png",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/drawable-mdpi/locked.png"
+    }
+]

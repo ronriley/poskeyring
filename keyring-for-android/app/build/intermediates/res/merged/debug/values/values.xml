@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="password_timeouts">
+  	<item>none (use once)</item>
+  	<item>15 seconds</item>
+  	<item>30 seconds</item>
+  	<item>1 minute</item>
+  	<item>5 minutes</item>
+  </string-array>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="pinned_header_background">#ff202020</color>
+    <color name="session_foreground_past">#ff999999</color>
+    <color name="title_background">#ff355689</color>
+    <color name="title_separator">#40ffffff</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <dimen name="colorstrip_height">6dip</dimen>
+    <dimen name="now_playing_height">90dip</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="title_height">45dip</dimen>
+    <string name="account">Account</string>
+    <string name="app_label">Keyring</string>
+    <string name="app_name">Keyring</string>
+    <string name="button_new">New</string>
+    <string name="button_new_category">New Category</string>
+    <string name="cancel">Cancel</string>
+    <string name="category">category</string>
+    <string name="create_a_new_keyring">Create a New Keyring</string>
+    <string name="creating_keyring">Creating new Keyring, please wait...</string>
+    <string name="decrypt_failed">************</string>
+    <string name="delete">Delete</string>
+    <string name="description_home">Home</string>
+    <string name="description_logo">Keyring</string>
+    <string name="description_search">Search</string>
+    <string name="downloads_directory_not_found_please_put_file_to_import_into_the_downloads_directory_on_the_sd_card_you_may_need_to_create_this_directory_first_">Downloads directory not found - please put file to import into the /downloads directory on the SD card - you may need to create this directory first!</string>
+    <string name="generate">Generate</string>
+    <string name="import_">Import </string>
+    <string name="import_an_existing_keyring">Import an Existing Keyring</string>
+    <string name="include">Include</string>
+    <string name="label_account">Account:  </string>
+    <string name="label_category">Category:  </string>
+    <string name="label_category_editor">Click on a category to edit it</string>
+    <string name="label_date_changed">Date Changed:  </string>
+    <string name="label_donate">DONATE:  If you find the software useful please consider making a donation to one of the charities listed on the website at http://sites.google.com/site/androidkeyring/please-support</string>
+    <string name="label_enter_password">Enter password:  </string>
+    <string name="label_failed_password">Bad password, try again:  </string>
+    <string name="label_help">HELP:  this app is supported by a website at http://sites.google.com/site/androidkeyring/  Please see the website for essential steps before importing a Palm OS Keyring</string>
+    <string name="label_length">Length:  </string>
+    <string name="label_license">LICENSE: this program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details:  http://www.gnu.org/licenses/gpl.html</string>
+    <string name="label_new_master_password">Set Master Password</string>
+    <string name="label_new_password">New password:     </string>
+    <string name="label_new_password2">Repeat password:  </string>
+    <string name="label_notes">Notes:  </string>
+    <string name="label_password">Password:  </string>
+    <string name="label_password_timeout">Password timeout:  </string>
+    <string name="label_title">Title:  </string>
+    <string name="lock_keyring">Lock Keyring</string>
+    <string name="locked">Locked</string>
+    <string name="menu_change_password">Change Password</string>
+    <string name="menu_edit_categories">Edit Categories</string>
+    <string name="menu_export_pdb">Export Password File</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_import_pdb">Import Password File</string>
+    <string name="menu_list">List</string>
+    <string name="menu_new">New</string>
+    <string name="menu_new_pdb">Create New Keystore</string>
+    <string name="menu_quit">Quit</string>
+    <string name="menu_set_password_timeout">Set Password Timeout</string>
+    <string name="message_create_export">Enter a name for the export file</string>
+    <string name="message_export_failure">Failed to export file</string>
+    <string name="message_export_info">Exported files will be saved to the "downloads" directory of your SD card</string>
+    <string name="message_export_success">Successfully exported file</string>
+    <string name="message_exporting">Exporting file </string>
+    <string name="message_import_existing_keyring">Import an existing Keyring</string>
+    <string name="message_import_failure">Failed to import file </string>
+    <string name="message_import_success">successfully imported file</string>
+    <string name="message_importing">Importing file </string>
+    <string name="message_make_new_private_keyring">Make a new Keyring</string>
+    <string name="message_no_data_found">No matches..</string>
+    <string name="message_no_private_keyring">No password store found - would you like to import an existing Keyring, or make a new one?</string>
+    <string name="message_password_cannot_be_null">Password can not be empty!</string>
+    <string name="message_password_changed">Password Changed</string>
+    <string name="message_password_store_updated">Finished updating password store</string>
+    <string name="message_password_too_long">Password too long - max 40 chars</string>
+    <string name="message_passwords_do_not_match">Passwords do not match!</string>
+    <string name="message_pick_export">Select a previous export to over-write or enter a new file name</string>
+    <string name="message_please_import_or_create_a_keyring">Please import or create a Keyring to activate this feature</string>
+    <string name="message_please_provide_item_title"># and / characters are not supported in the title</string>
+    <string name="message_private_keyring_created">Finished making Keyring!  Choose \'+\' from the menu bar at the top to start adding passwords...</string>
+    <string name="message_updating_password_store">Updating password store, please wait..</string>
+    <string name="name">Name</string>
+    <string name="no">No</string>
+    <string name="notes">Notes</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="pdb_file_service">Pdb File Service</string>
+    <string name="pdps_error_cannot_read_SD">ERROR: Unable to access SD card! Please insert the SD Card.</string>
+    <string name="pdps_select_pdb_file">Select a pdb file</string>
+    <string name="pdps_service_connected">Connected to file handler</string>
+    <string name="pdps_service_disconnected">Disconnected file handler service</string>
+    <string name="pdps_started">Started file hander service</string>
+    <string name="pdps_starting">Starting file handler..</string>
+    <string name="pdps_stopped">Stopped file handler</string>
+    <string name="re_assign_entries_with_category_">Re-assign entries with category %1$s to category %2$s?</string>
+    <string name="re_name_category_">Re-name category %1$s to %2$s?</string>
+    <string name="rename">Rename</string>
+    <string name="save">Done</string>
+    <string name="save_to_">Save to </string>
+    <string name="sd_ok">SD Card ready!</string>
+    <string name="search_hint">Search Keyring...</string>
+    <string name="sorry_more_than_one_unsupported_character">Sorry, the following characters are not supported by Keyring: %1$s</string>
+    <string name="sorry_one_unsupported_character">Sorry, the %1$s character is not supported by Keyring. </string>
+    <string name="toggle_orientation">Switch screen orientation</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="updating_password_store">Updating password store, please wait...</string>
+    <string name="updating_password_store_please_wait_">Updating password store, please wait..</string>
+    <string name="warn_cannot_delete_category">The default category can not be deleted.</string>
+    <string name="warn_category_name_too_long">Category name too long - please use a shorter name.</string>
+    <string name="warn_delete_category">Delete this category?  Are you sure?</string>
+    <string name="warn_delete_entry">Delete this entry?  Are you sure?</string>
+    <string name="warn_keyfile_exists">WARNING! Your current Keyring will be replaced! This is irreversible!  Are you sure you want to do this???</string>
+    <string name="warn_no_keyfile_exists">Please create a Keyring first!  (Nothing to export at present :))</string>
+    <string name="warn_unsupported_charset">Your device does not support the Palm OS character set required by Keyring.  You are NOT recommended to use Keyring.</string>
+    <string name="yes">Yes</string>
+    <style name="HomeButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/foreground1</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ListItem">
+        <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+    </style>
+    <style name="NoteContent">
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="NoteCreate">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="NoteTime">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+    <style name="SessionSubtitle">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+    <style name="SessionTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="TextBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+    <style name="TextHeader">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="TextHeaderTwo">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="Theme" parent="android:Theme"/>
+    <style name="Theme.IOSched" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="TitleBar">
+<!--        <item name="android:id">@id/title_container</item>-->
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/title_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/title_background</item>
+    </style>
+    <style name="TitleBarAction">
+        <item name="android:layout_width">@dimen/title_height</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@drawable/title_button</item>
+    </style>
+    <style name="TitleBarLogo">
+<!--        <item name="android:id">@id/title_logo</item>-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="TitleBarProgressIndicator" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">14dip</item>
+        <item name="android:layout_marginRight">15dip</item>
+        <item name="android:layout_marginTop">14dip</item>
+        <item name="android:indeterminate">true</item> 
+    </style>
+    <style name="TitleBarSeparator">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/title_separator</item>
+    </style>
+    <style name="TitleBarSpring">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="TitleBarText">
+<!--        <item name="android:id">@id/title_text</item>-->
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/title_text</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+</resources>

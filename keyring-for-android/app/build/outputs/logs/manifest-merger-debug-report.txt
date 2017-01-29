@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:56:1-180:12
+	package
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:57:2-34
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:59:2-29
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:58:2-26
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:56:11-69
+uses-sdk
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:61:2-40
+	android:targetSdkVersion
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:61:12-37
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:66:2-178:16
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:67:2-34
+	android:debuggable
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:69:3-29
+	android:icon
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:66:15-44
+	android:theme
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:68:4-51
+activity#com.androidron.keyring.ImportPdb
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:71:3-80:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:76:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:72:3-35
+	android:stateNotNeeded
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:74:3-32
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:73:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:75:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:71:13-60
+intent-filter#android.intent.action.PICK
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:77:4-79:20
+action#android.intent.action.PICK
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:78:5-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:78:13-54
+activity#com.androidron.keyring.IndexList
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:81:3-93:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:83:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:82:3-35
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:81:13-60
+intent-filter#android.intent.action.MAIN+android.intent.action.SEARCH+android.intent.category.LAUNCHER
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:86:4-90:20
+action#android.intent.action.MAIN
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:87:5-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:87:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:88:5-65
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:88:15-62
+action#android.intent.action.SEARCH
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:89:5-59
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:89:13-56
+meta-data#android.app.searchable
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:91:4-92:42
+	android:resource
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:92:5-39
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:91:15-52
+activity#com.androidron.keyring.Item
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:94:3-101:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:97:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:94:56-88
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:96:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:95:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:94:13-55
+activity#com.androidron.keyring.PasswordChanger
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:102:3-109:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:105:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:102:67-99
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:104:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:103:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:102:13-66
+activity#com.androidron.keyring.CategoryEditor
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:110:3-117:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:113:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:110:66-98
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:112:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:111:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:110:13-65
+activity#com.androidron.keyring.CategoryItem
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:118:3-125:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:121:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:118:64-96
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:120:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:119:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:118:13-63
+activity#com.androidron.keyring.PasswordTimeout
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:126:3-133:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:129:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:126:67-99
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:128:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:127:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:126:13-66
+activity#com.androidron.keyring.NewPrivateKeystore
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:134:3-141:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:137:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:134:70-102
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:136:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:135:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:134:13-69
+activity#com.androidron.keyring.Help
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:142:3-149:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:145:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:143:3-35
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:144:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:142:13-55
+activity#com.androidron.keyring.ExportPdb
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:150:3-157:14
+	android:screenOrientation
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:153:3-39
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:150:61-93
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:152:3-32
+	android:windowSoftInputMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:151:3-57
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:150:13-60
+activity#com.androidron.keyring.PdbFileHandlerServiceSupportActivity
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:158:3-164:14
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:159:3-35
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:160:3-32
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:158:13-87
+activity#com.androidron.keyring.ScreenOrientationHandlerActivity
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:165:3-171:14
+	android:label
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:166:3-35
+	android:launchMode
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:167:3-32
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:165:13-83
+service#com.androidron.keyring.PdbFileHandlerService
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:172:3-175:13
+	android:enabled
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:174:4-26
+	android:exported
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:173:4-28
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:172:12-71
+meta-data#android.app.default_searchable
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:176:3-177:45
+	android:value
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:177:16-42
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:176:14-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:179:2-78
+	android:name
+		ADDED from /home/ron/keyring-for-android/app/src/main/AndroidManifest.xml:179:19-75

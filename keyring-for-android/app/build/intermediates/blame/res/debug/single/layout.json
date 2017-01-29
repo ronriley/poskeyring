@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/new_private_keystore.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/new_private_keystore.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/index.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/index.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/password_changer.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/password_changer.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/oldindex.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/oldindex.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/category.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/category.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/importpdb.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/importpdb.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/password_dialog.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/password_dialog.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/category_item.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/category_item.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/exportpdb.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/exportpdb.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/category_footer.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/category_footer.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/titlebar.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/password_generator_dialog.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/password_generator_dialog.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/password_timeout.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/password_timeout.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/empty.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/empty.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/home/ron/keyring-for-android/app/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/home/ron/keyring-for-android/app/src/main/res/layout/item.xml"
+    }
+]
